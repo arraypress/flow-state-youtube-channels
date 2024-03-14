@@ -7,6 +7,7 @@ channels offering ambient music, soundscapes, and white noise. It will be update
 ## Channels
 
 - **[OBSIDIAN SOUNDFIELDS](https://www.youtube.com/@OBSIDIANSOUNDFIELDS)**
+- **[Futurescapes - Sci Fi Ambience](https://www.youtube.com/@Futurescapes-SciFiAmbience)**
 - **[White Noise Space](https://www.youtube.com/@whitenoisespace7/)**
 - **[Chronoscapes](https://www.youtube.com/@chronoscapes_)**
 - **[Focus Soundscapes](https://www.youtube.com/@FocusSoundscapesMusic)**
@@ -25,9 +26,5 @@ channels offering ambient music, soundscapes, and white noise. It will be update
 - **[Zerofuturism](https://www.youtube.com/channel/UCV13TWsGsOKB46YSooH0W6g)**
 - **[The Bard](https://www.youtube.com/@The.Bard./videos)**
 - **[Space Wave CR](https://www.youtube.com/@spacewavecr)**
-
-Please note that some channel names were derived from their URLs and may not reflect the exact naming on YouTube.
-
-Submissions are welcome.
 
 *Last updated: 14 March 2024*
